@@ -81,20 +81,18 @@
 🎓 **Bachelor of Computer Application (BCA)**  
 📍 Indian Institute of Business Management, Patna  
 📅 *Aug 2021 – Jul 2024*  
-🎯 Affiliated with Aryabhatta Knowledge University
 
 ---
 
 ## 💼 Experience
 
 ### 💻 Software Developer Intern (Self-Initiated Projects)
-📅 *Jan 2023 – Present*  
-🌍 Remote  
+📅 *Jan 2023 – Present* | 🌍 Remote  
 
 - 600+ hours of Java Full Stack training  
 - Built **12+ real-world projects**  
 - Practiced **TDD with JUnit**  
-- Hands-on Git & GitHub workflows  
+- Git & GitHub collaborative workflows  
 
 ---
 
@@ -103,19 +101,7 @@
 - ✅ Java Programming Masterclass (Java 8+, Multithreading, JDBC)
 - ✅ Spring Boot & Microservices
 - 🧠 Solved **300+ DSA problems**
-- 🚀 Active GitHub with **10+ projects**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajmaurya6688&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmaurya6688&theme=tokyonight" />
-</p>
+- 🚀 Active GitHub portfolio with **10+ projects**
 
 ---
 
